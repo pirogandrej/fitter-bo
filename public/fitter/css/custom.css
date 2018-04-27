@@ -1,0 +1,30 @@
+.w-100 {width: 100%;}
+
+.ml-15 {margin-left: 15px;}
+.mr-15 {margin-right: 15px;}
+
+.dropify-render img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.phone {
+    font-size: 20px;
+}
+
+.empty-phone {
+    font-size: 20px; color: red;
+}
+
+span.position-name {color: whitesmoke;}
+span.direction-name {color: whitesmoke;}
+span.department-name {color: whitesmoke;}
+span.region-name {color: #0071bd;}
+
+.user-profile .user-pro-body img {
+    height: 90px;
+    width: 90px;
+    display: block;
+    margin: 0 auto 10px;
+}

@@ -1,0 +1,13 @@
+table.table td {
+    vertical-align: middle !important;
+}
+
+td.avatar-outer {
+    padding:0 !important;
+    margin:0 !important;
+    width:64px !important;
+}
+
+img.avatar {
+    width:64px !important;
+}

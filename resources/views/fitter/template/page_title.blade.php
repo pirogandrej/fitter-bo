@@ -1,0 +1,1 @@
+<h4 class="page-title">{{ $content_information['page_title'] }}</h4>

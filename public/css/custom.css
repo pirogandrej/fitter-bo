@@ -1,0 +1,60 @@
+.user-profile .user-pro-body img {
+    height: 90px;
+    width: 90px;
+    display: block;
+    margin: 0 auto 10px;
+}
+
+.ion-heart .has-like {
+    color: #ff6e78;
+}
+
+.has-like {
+    padding-top: 10px;
+    padding-left: 5px;
+    color: #ff6e78;
+    height: 46px;
+}
+
+#heart {
+    padding-top: 10px;
+    height: 46px;
+    padding-right: 0px;
+    padding-left: 5px;
+}
+
+.p-eye {
+    height: 46px;
+    padding-top: 10px;
+    padding-right: 2px;
+    padding-left: 0px;
+}
+
+.p-eye-post {
+    height: 46px;
+    padding-top: 10px;
+    padding-right: 7px;
+    padding-left: 15px;
+}
+
+.date_post {
+    padding-left: 10px;
+}
+
+.category_image{
+    margin-top: 10px;
+    padding: 5px;
+    width: 190px;
+    border-radius: 50%;
+}
+
+.category_image_description {
+    padding: 30px;
+    width: 300px;
+    border-radius: 50%;
+    float : left;
+}
+
+.category-description {
+    /*float: left;*/
+}
