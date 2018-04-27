@@ -13,9 +13,9 @@ return [
 
     'path_posts_imgLarge' => 'images/blog/posts/large/',
 
-    'default_small_image_url' => asset('images/blog/posts/small/default.jpg'),
+    'default_small_image_url' => public_path('images/blog/posts/small/default.jpg'),
 
-    'default_large_image_url' => asset('images/blog/posts/large/default.jpg'),
+    'default_large_image_url' => public_path('images/blog/posts/large/default.jpg'),
 
     'avatars_folder' => 'avatars/',
 
